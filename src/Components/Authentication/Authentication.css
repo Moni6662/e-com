@@ -1,0 +1,78 @@
+/* .createaccount {
+    margin-left: 21%;
+    margin-right: 21%;
+} */
+.login-form{
+    margin-top: 5%;
+    margin-left: 9%;
+    /* border: 2px solid rgb(27, 170, 98); */
+    background-color: rgb(237, 241, 241);
+    position: absolute;
+}
+/* .row{
+    border: 2px solid red;
+} */
+
+.login {
+    background-color:lightblue;
+    height: 100vh;
+    width: 100vw;
+}
+
+.image{
+    height: 398px;
+    width: 437px;
+}
+
+.forgot-password{
+    margin-top: 5%;
+    margin-left: 9%;
+    background-color: rgb(237, 241, 241);
+        border: 2px solid rgb(27, 170, 98);
+    
+}
+
+.id{
+    width: 90%;
+    margin-top: 30%;
+    margin-left: 5%;
+}
+
+.parent-forgotpassword{
+    position: absolute;
+    height: 100vh;
+    width: 100vw;
+    background-color:lightblue;
+
+}
+
+.Parent-creat-account{
+     /* margin-top: 5%;
+    margin-left: 9%; */
+    margin-right: 5%; 
+    /* border: 2px solid rgb(27, 170, 98); */
+    background-color:lightskyblue;
+        
+    /* position: absolute; */
+     height: 100vh;
+    width: 100vw;
+    /* background-image: url("https://www.freecodecamp.org/news/content/images/size/w2000/2021/06/w-qjCHPZbeXCQ-unsplash.jpg");
+      */
+}
+
+.create-account-row{
+    display: flex;
+    justify-content: center;
+}
+
+.create-account-form{
+    margin-top: 5%;
+    margin-left: 9%;
+    border: 2px solid rgb(27, 170, 98);
+    background-color: rgb(237, 241, 241);
+    position: absolute;
+}
+
+.line{
+    border: 2px solid black;
+}
